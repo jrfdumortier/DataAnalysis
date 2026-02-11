@@ -19,3 +19,5 @@
 - [Video](https://youtu.be/pUwaaBwRk2w?si=nyPlnm1gtVjBSV83)
 
 **Advanced Multivariate Regression** [[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/AdvancedMultivariateRegression.pdf)]
+
+**Violating Assumptions** [[Notes](https://github.com/jrfdumortier/DataAnalysis/raw/main/Notes/Violating%20Assumptions.pdf)][[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/ViolatingAssumptions.pdf)]

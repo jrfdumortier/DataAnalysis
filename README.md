@@ -17,3 +17,5 @@
 **Basic Multivariate Regression** [[Notes](https://github.com/jrfdumortier/DataAnalysis/raw/main/Notes/Basic%20Multivariate%20Regression.pdf)][[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/BasicMultivariateRegression.pdf)]
 
 - [Video](https://youtu.be/pUwaaBwRk2w?si=nyPlnm1gtVjBSV83)
+
+**Advanced Multivariate Regression** [[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/AdvancedMultivariateRegression.pdf)]

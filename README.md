@@ -21,3 +21,5 @@
 **Advanced Multivariate Regression** [[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/AdvancedMultivariateRegression.pdf)]
 
 **Violating Assumptions** [[Notes](https://github.com/jrfdumortier/DataAnalysis/raw/main/Notes/Violating%20Assumptions.pdf)][[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/ViolatingAssumptions.pdf)]
+
+**Binary Choice** [[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/BinaryChoice.pdf)][[Video](https://youtu.be/6--cCcD2Tts)]

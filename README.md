@@ -1,14 +1,10 @@
 # Data Analysis
 
-**Hypothesis Testing**
-
-- [Video: Hypothesis Testing with R](https://youtu.be/bW0pCDV20us?si=fsG_1TDdoJ8WVJiY)
+**Hypothesis Testing** [[Video](https://youtu.be/bW0pCDV20us?si=fsG_1TDdoJ8WVJiY)]
 
 **Introduction to Regression** [[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/IntroductionRegression.pdf)]
 
-**Introduction to R and RStudio** [[Notes](https://github.com/jrfdumortier/DataAnalysis/raw/main/Notes/Introduction%20to%20R.pdf)][[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/IntroductionR.pdf)]
-
-- [Video: Introduction to R and RStudio](https://youtu.be/p6aFs2E_4hg?si=xhzT9nUDlFZxwD-K)
+**Introduction to R and RStudio** [[Notes](https://github.com/jrfdumortier/DataAnalysis/raw/main/Notes/Introduction%20to%20R.pdf)][[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/IntroductionR.pdf)][[Video](https://youtu.be/p6aFs2E_4hg?si=xhzT9nUDlFZxwD-K)]
 
 **Bivariate Regression** [[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/BivariateRegression.pdf)]
 
@@ -23,3 +19,7 @@
 **Violating Assumptions** [[Notes](https://github.com/jrfdumortier/DataAnalysis/raw/main/Notes/Violating%20Assumptions.pdf)][[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/ViolatingAssumptions.pdf)]
 
 **Binary Choice** [[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/BinaryChoice.pdf)][[Video](https://youtu.be/6--cCcD2Tts)]
+
+**Qualitative Choice Models**[[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/QualitativeChoice.pdf)][[Video](https://youtu.be/xLUIil1sGW4?si=ngCUz1eCScJoBsP1)]
+
+**Limited Dependent Variable Models** [[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/LimitedDependentVariables.pdf)][[Video](https://youtu.be/KtnMIdQh5-4?si=jEiIeOAgGyMQ0u_Q)]

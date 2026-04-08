@@ -23,3 +23,5 @@
 **Qualitative Choice Models**[[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/QualitativeChoice.pdf)][[Video](https://youtu.be/xLUIil1sGW4?si=ngCUz1eCScJoBsP1)]
 
 **Limited Dependent Variable Models** [[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/LimitedDependentVariables.pdf)][[Video](https://youtu.be/KtnMIdQh5-4?si=jEiIeOAgGyMQ0u_Q)]
+
+**Panel Data Models** [[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/PanelData.pdf)][[Video](https://youtu.be/fkwYDi0Mc68?si=KgmORanQfgp-Mgrd)]

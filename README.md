@@ -25,3 +25,5 @@
 **Limited Dependent Variable Models** [[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/LimitedDependentVariables.pdf)][[Video](https://youtu.be/KtnMIdQh5-4?si=jEiIeOAgGyMQ0u_Q)]
 
 **Panel Data Models** [[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/PanelData.pdf)][[Video](https://youtu.be/fkwYDi0Mc68?si=KgmORanQfgp-Mgrd)]
+
+**Dynamic Regression Models** [[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/DynamicRegression.pdf)]

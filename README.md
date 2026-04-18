@@ -27,3 +27,5 @@
 **Panel Data Models** [[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/PanelData.pdf)][[Video](https://youtu.be/fkwYDi0Mc68?si=KgmORanQfgp-Mgrd)]
 
 **Dynamic Regression Models** [[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/DynamicRegression.pdf)]
+
+**Time Series** [[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/TimeSeries.pdf)]

@@ -1,5 +1,7 @@
 # Data Analysis
 
+**Introduction to Statistics** [[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Notes/Introduction%20to%20Statistics%20(Slides).pdf)][[Video](https://youtu.be/-nySM9cmYwo)] 
+
 **Hypothesis Testing** [[Video](https://youtu.be/bW0pCDV20us?si=fsG_1TDdoJ8WVJiY)]
 
 **Introduction to Regression** [[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/IntroductionRegression.pdf)]

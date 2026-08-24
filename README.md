@@ -4,7 +4,7 @@
 
 **Introduction to R and RStudio** [[Notes](https://github.com/jrfdumortier/DataAnalysis/raw/main/Notes/Introduction%20to%20R%20(Notes).pdf)][[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/Introduction%20to%20R%20(Slides).pdf)][[Video](https://youtu.be/p6aFs2E_4hg?si=xhzT9nUDlFZxwD-K)]
 
-**Summarizing Data** [[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/Summarizing%20(Data)%20R%20(Slides).pdf)][[Video](https://youtu.be/70zOMfx2z_s)]
+**Summarizing Data** [[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/Summarizing%20Data%20(Slides).pdf)][[Video](https://youtu.be/70zOMfx2z_s)]
 
 **Hypothesis Testing** [[Video](https://youtu.be/bW0pCDV20us?si=fsG_1TDdoJ8WVJiY)]
 

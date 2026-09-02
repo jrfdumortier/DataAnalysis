@@ -34,3 +34,11 @@
 **Dynamic Regression Models** [[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/DynamicRegression.pdf)]
 
 **Time Series** [[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/TimeSeries.pdf)]
+
+Additional Resources
+
+- [Principles of Econometrics with R](https://bookdown.org/ccolonescu/RPoE4/)
+- [Introduction to Econometrics with R](https://www.econometrics-with-r.org/)
+- [Geocomputation with R](https://geocompr.robinlovelace.net/)
+- [Introduction to Data Science](https://rafalab.github.io/dsbook/)
+- [Forecasting: Principles and Practice](https://otexts.com/fpp2/)

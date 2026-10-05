@@ -1,12 +1,30 @@
 # Data Analysis
 
-**Introduction to Statistics** [[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/Introduction%20to%20Statistics%20(Slides).pdf)][[Video](https://youtu.be/-nySM9cmYwo)] 
+**Introduction to Statistics** [[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/Introduction%20to%20Statistics%20(Slides).pdf)]
 
-**Introduction to R and RStudio** [[Notes](https://github.com/jrfdumortier/DataAnalysis/raw/main/Notes/Introduction%20to%20R%20(Notes).pdf)][[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/Introduction%20to%20R%20(Slides).pdf)][[Video](https://youtu.be/p6aFs2E_4hg?si=xhzT9nUDlFZxwD-K)]
+- [Video: Introduction to Probability and Statistics](https://youtu.be/-nySM9cmYwo)
 
-**Summarizing Data** [[Notes](https://github.com/jrfdumortier/DataAnalysis/raw/main/Notes/Summarizing%20Data%20(Notes).pdf)][[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/Summarizing%20Data%20(Slides).pdf)][[Video](https://youtu.be/70zOMfx2z_s)]
+**Introduction to R and RStudio** [[Notes](https://github.com/jrfdumortier/DataAnalysis/raw/main/Notes/Introduction%20to%20R%20(Notes).pdf)][[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/Introduction%20to%20R%20(Slides).pdf)]
 
-**Hypothesis Testing** [[Video](https://youtu.be/bW0pCDV20us?si=fsG_1TDdoJ8WVJiY)]
+- [Video: Introduction to R and RStudio](https://youtu.be/p6aFs2E_4hg)
+
+**Summarizing Data and Data Visualization** [[Notes](https://github.com/jrfdumortier/DataAnalysis/raw/main/Notes/Summarizing%20Data%20(Notes).pdf)][[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/Summarizing%20Data%20(Slides).pdf)]
+
+- [Video: Summarizing Data with R](https://youtu.be/70zOMfx2z_s)
+
+**Probability** [[Notes](https://github.com/jrfdumortier/DataAnalysis/raw/main/Notes/Probability%20(Notes).pdf)][[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/Probability%20(Slides).pdf)]
+
+- [Video: Probability](https://youtu.be/xgKUI3QWfaw)
+
+**Probability Distributions** [[Notes](https://github.com/jrfdumortier/DataAnalysis/raw/main/Notes/Probability%20Distributions%20(Notes).pdf)][[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/Probability%20Distributions%20(Slides).pdf)]
+
+- [Video: Probability Distributions](https://youtu.be/29eB-nzfVAM)
+
+**Probability Distribution Fitting**
+
+**Hypothesis Testing** 
+
+- [Video](https://youtu.be/bW0pCDV20us?si=fsG_1TDdoJ8WVJiY)
 
 **Introduction to Regression** [[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/IntroductionRegression.pdf)]
 
@@ -35,7 +53,7 @@
 
 **Time Series** [[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/TimeSeries.pdf)]
 
-Additional Resources
+**Additional Resources**
 
 - [Principles of Econometrics with R](https://bookdown.org/ccolonescu/RPoE4/)
 - [Introduction to Econometrics with R](https://www.econometrics-with-r.org/)

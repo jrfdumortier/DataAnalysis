@@ -24,7 +24,7 @@
 
 - [Video: Probability Distribution Fitting](https://youtu.be/HwylBVccLI8)
 
-**Basic Statistics and Sampling*** [[Notes](https://github.com/jrfdumortier/DataAnalysis/raw/main/Notes/Basic%20Statistics%20and%20Sampling%20(Notes).pdf)][[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/Basic%20Statistics%20and%20Sampling%20(Slides).pdf)]
+**Basic Statistics and Sampling** [[Notes](https://github.com/jrfdumortier/DataAnalysis/raw/main/Notes/Basic%20Statistics%20and%20Sampling%20(Notes).pdf)][[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/Basic%20Statistics%20and%20Sampling%20(Slides).pdf)]
 
 **Hypothesis Testing** 
 

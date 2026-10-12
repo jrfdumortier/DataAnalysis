@@ -20,18 +20,22 @@
 
 - [Video: Probability Distributions](https://youtu.be/29eB-nzfVAM)
 
-**Probability Distribution Fitting**
+**Probability Distribution Fitting** [[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/Probability%20Distribution%20Fitting %20(Slides).pdf)]
+
+- [Video: Probability Distribution Fitting](https://youtu.be/HwylBVccLI8)
+
+**Basic Statistics and Sampling*** [[Notes](https://github.com/jrfdumortier/DataAnalysis/raw/main/Notes/Basic%20Statistics%20and%20Sampling%20(Notes).pdf)][[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/Basic%20Statistics%20and%20Sampling%20(Slides).pdf)]
 
 **Hypothesis Testing** 
 
-- [Video](https://youtu.be/bW0pCDV20us?si=fsG_1TDdoJ8WVJiY)
+- [Video](https://youtu.be/bW0pCDV20us)
 
 **Introduction to Regression** [[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/IntroductionRegression.pdf)]
 
 
 **Bivariate Regression** [[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/BivariateRegression.pdf)]
 
-- [Video: Bivariate Regression](https://youtu.be/omZJ5hJYc9k?si=SD55s117WDiOE5w_)
+- [Video: Bivariate Regression](https://youtu.be/omZJ5hJYc9k)
 
 **Basic Multivariate Regression** [[Notes](https://github.com/jrfdumortier/DataAnalysis/raw/main/Notes/Basic%20Multivariate%20Regression.pdf)][[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/BasicMultivariateRegression.pdf)]
 

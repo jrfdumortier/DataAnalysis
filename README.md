@@ -20,7 +20,7 @@
 
 - [Video: Probability Distributions](https://youtu.be/29eB-nzfVAM)
 
-**Probability Distribution Fitting** [[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/Probability%20Distribution%20Fitting %20(Slides).pdf)]
+**Probability Distribution Fitting** [[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/Probability%20Distribution%20Fitting%20(Slides).pdf)]
 
 - [Video: Probability Distribution Fitting](https://youtu.be/HwylBVccLI8)
 

@@ -1,10 +1,10 @@
 # Data Analysis
 
-**Introduction to Statistics** [[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/Introduction%20to%20Statistics%20(Slides).pdf)]
+**Introduction to Probability and Statistics**
 
-- [Video: Introduction to Probability and Statistics](https://youtu.be/-nySM9cmYwo)
+- *Introduction to Probability,  Statistics, and R* [[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/Introduction%20to%20Statistics%20(Slides).pdf)][[Video](https://youtu.be/-nySM9cmYwo)]
 
-**Introduction to R and RStudio** [[Notes](https://github.com/jrfdumortier/DataAnalysis/raw/main/Notes/Introduction%20to%20R%20(Notes).pdf)][[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/Introduction%20to%20R%20(Slides).pdf)]
+- *Introduction to R and RStudio* [[Notes](https://github.com/jrfdumortier/DataAnalysis/raw/main/Notes/Introduction%20to%20R%20(Notes).pdf)][[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/Introduction%20to%20R%20(Slides).pdf)]
 
 - [Video: Introduction to R and RStudio](https://youtu.be/p6aFs2E_4hg)
 
@@ -29,6 +29,8 @@
 **Hypothesis Testing** 
 
 - [Video](https://youtu.be/bW0pCDV20us)
+
+- *Advanced Topics in Hypothesis Testing* [[Notes](https://github.com/jrfdumortier/DataAnalysis/raw/main/Notes/Advanced%20Topics%20in%20Hypothesis%20Testing%20(Slides).pdf)][[https://youtu.be/Vw5rsU1ayr4](Video)]
 
 **Introduction to Regression** [[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/IntroductionRegression.pdf)]
 

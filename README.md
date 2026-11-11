@@ -1,12 +1,10 @@
 # Data Analysis
 
-**Introduction to Probability and Statistics**
+**Introduction**
 
-- *Introduction to Probability,  Statistics, and R* [[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/Introduction%20to%20Statistics%20(Slides).pdf)][[Video](https://youtu.be/-nySM9cmYwo)]
-
-- *Introduction to R and RStudio* [[Notes](https://github.com/jrfdumortier/DataAnalysis/raw/main/Notes/Introduction%20to%20R%20(Notes).pdf)][[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/Introduction%20to%20R%20(Slides).pdf)]
-
-- [Video: Introduction to R and RStudio](https://youtu.be/p6aFs2E_4hg)
+- Introduction to Probability,  Statistics, and R [[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/Introduction%20to%20Statistics%20(Slides).pdf)][[Video](https://youtu.be/-nySM9cmYwo)]
+- Introduction to R and RStudio [[Notes](https://github.com/jrfdumortier/DataAnalysis/raw/main/Notes/Introduction%20to%20R%20(Notes).pdf)][[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/Introduction%20to%20R%20(Slides).pdf)][[Video: Introduction to R and RStudio](https://youtu.be/p6aFs2E_4hg)]
+- Introduction to Regression [[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/IntroductionRegression.pdf)]
 
 **Summarizing Data and Data Visualization** [[Notes](https://github.com/jrfdumortier/DataAnalysis/raw/main/Notes/Summarizing%20Data%20(Notes).pdf)][[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/Summarizing%20Data%20(Slides).pdf)]
 
@@ -30,9 +28,9 @@
 
 - [Video](https://youtu.be/bW0pCDV20us)
 
-- *Advanced Topics in Hypothesis Testing* [[Notes](https://github.com/jrfdumortier/DataAnalysis/raw/main/Notes/Advanced%20Topics%20in%20Hypothesis%20Testing%20(Slides).pdf)][[https://youtu.be/Vw5rsU1ayr4](Video)]
+- *Advanced Topics in Hypothesis Testing* [[Notes](https://github.com/jrfdumortier/DataAnalysis/raw/main/Notes/Advanced%20Topics%20in%20Hypothesis%20Testing%20(Slides).pdf)][[Video](https://youtu.be/Vw5rsU1ayr4)]
 
-**Introduction to Regression** [[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/IntroductionRegression.pdf)]
+
 
 
 **Bivariate Regression** [[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/BivariateRegression.pdf)]

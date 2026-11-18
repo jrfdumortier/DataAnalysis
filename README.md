@@ -6,15 +6,15 @@
 - Introduction to R and RStudio [[Notes](https://github.com/jrfdumortier/DataAnalysis/raw/main/Notes/Introduction%20to%20R%20(Notes).pdf)][[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/Introduction%20to%20R%20(Slides).pdf)][[Video](https://youtu.be/p6aFs2E_4hg)]
 - Introduction to Regression [[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/IntroductionRegression.pdf)]
 
-**Summarizing Data and Data Visualization** [[Notes](https://github.com/jrfdumortier/DataAnalysis/raw/main/Notes/Summarizing%20Data%20(Notes).pdf)][[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/Summarizing%20Data%20(Slides).pdf)]
+**Summarizing Data and Data Visualization**
 
-- [Video: Summarizing Data with R](https://youtu.be/70zOMfx2z_s)
+- Summarizing Data [[Notes](https://github.com/jrfdumortier/DataAnalysis/raw/main/Notes/Summarizing%20Data%20(Notes).pdf)][[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/Summarizing%20Data%20(Slides).pdf)][[Video](https://youtu.be/70zOMfx2z_s)]
 
 **Probability**
 
-- Probability [[Notes](https://github.com/jrfdumortier/DataAnalysis/raw/main/Notes/Probability%20(Notes).pdf)][[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/Probability%20(Slides).pdf)][Video](https://youtu.be/xgKUI3QWfaw)
-- Probability Distributions [[Notes](https://github.com/jrfdumortier/DataAnalysis/raw/main/Notes/Probability%20Distributions%20(Notes).pdf)][[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/Probability%20Distributions%20(Slides).pdf)][Video](https://youtu.be/29eB-nzfVAM)
-- Probability Distribution Fitting [[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/Probability%20Distribution%20Fitting%20(Slides).pdf)][Video](https://youtu.be/HwylBVccLI8)
+- Probability [[Notes](https://github.com/jrfdumortier/DataAnalysis/raw/main/Notes/Probability%20(Notes).pdf)][[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/Probability%20(Slides).pdf)][[Video](https://youtu.be/xgKUI3QWfaw)]
+- Probability Distributions [[Notes](https://github.com/jrfdumortier/DataAnalysis/raw/main/Notes/Probability%20Distributions%20(Notes).pdf)][[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/Probability%20Distributions%20(Slides).pdf)][[Video](https://youtu.be/29eB-nzfVAM)]
+- Probability Distribution Fitting [[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/Probability%20Distribution%20Fitting%20(Slides).pdf)][[Video](https://youtu.be/HwylBVccLI8)]
 
 **Statistics**
 
@@ -25,14 +25,14 @@
 
 **Ordinary Least Square (OLS) Models**
 
-- Bivariate Regression** [[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/BivariateRegression.pdf)][Video](https://youtu.be/omZJ5hJYc9k)
-- Basic Multivariate Regression [Notes](https://github.com/jrfdumortier/DataAnalysis/raw/main/Notes/Basic%20Multivariate%20Regression.pdf)][[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/BasicMultivariateRegression.pdf)][Video](https://youtu.be/pUwaaBwRk2w?si=nyPlnm1gtVjBSV83)
+- Bivariate Regression [[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/Bivariate%20Regression%20(Slides).pdf)][[Video](https://youtu.be/omZJ5hJYc9k)]
+- Basic Multivariate Regression [Notes](https://github.com/jrfdumortier/DataAnalysis/raw/main/Notes/Basic%20Multivariate%20Regression%20(Notes).pdf)][[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/Basic%20Multivariate%20Regression%20(Slides).pdf)][[Video](https://youtu.be/pUwaaBwRk2w)]
 - Advanced Multivariate Regression [[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/AdvancedMultivariateRegression.pdf)]
 - Violating Assumptions [[Notes](https://github.com/jrfdumortier/DataAnalysis/raw/main/Notes/Violating%20Assumptions.pdf)][[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/ViolatingAssumptions.pdf)]
 
 **Qualitative Choice and Limited Dependent Variable Models**
 
-- Binary Choice [[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/BinaryChoice.pdf)][[Video](https://youtu.be/6--cCcD2Tts)]
+- Binary Choice [[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/Binary%20Choice%20(Slides).pdf)][[Video](https://youtu.be/6--cCcD2Tts)]
 - Qualitative Choice Models [[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/QualitativeChoice.pdf)][[Video](https://youtu.be/xLUIil1sGW4?si=ngCUz1eCScJoBsP1)]
 - Limited Dependent Variable Models [[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/LimitedDependentVariables.pdf)][[Video](https://youtu.be/KtnMIdQh5-4?si=jEiIeOAgGyMQ0u_Q)]
 

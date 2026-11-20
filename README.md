@@ -25,14 +25,14 @@
 
 **Ordinary Least Square (OLS) Models**
 
-- Bivariate Regression [[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/Bivariate%20Regression%20(Slides).pdf)][[Video](https://youtu.be/omZJ5hJYc9k)]
+- Bivariate Regression [[Notes](https://github.com/jrfdumortier/DataAnalysis/raw/main/Notes/Bivariate%20Regression%20(Notes).pdf)][[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/Bivariate%20Regression%20(Slides).pdf)][[Video](https://youtu.be/omZJ5hJYc9k)]
 - Basic Multivariate Regression [Notes](https://github.com/jrfdumortier/DataAnalysis/raw/main/Notes/Basic%20Multivariate%20Regression%20(Notes).pdf)][[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/Basic%20Multivariate%20Regression%20(Slides).pdf)][[Video](https://youtu.be/pUwaaBwRk2w)]
 - Advanced Multivariate Regression [[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/AdvancedMultivariateRegression.pdf)]
 - Violating Assumptions [[Notes](https://github.com/jrfdumortier/DataAnalysis/raw/main/Notes/Violating%20Assumptions.pdf)][[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/ViolatingAssumptions.pdf)]
 
 **Qualitative Choice and Limited Dependent Variable Models**
 
-- Binary Choice [[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/Binary%20Choice%20(Slides).pdf)][[Video](https://youtu.be/6--cCcD2Tts)]
+- Binary Choice [[Notes](https://github.com/jrfdumortier/DataAnalysis/raw/main/Notes/Binary%20Choice%20(Notes).pdf)][[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/Binary%20Choice%20(Slides).pdf)][[Video](https://youtu.be/6--cCcD2Tts)]
 - Qualitative Choice Models [[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/QualitativeChoice.pdf)][[Video](https://youtu.be/xLUIil1sGW4?si=ngCUz1eCScJoBsP1)]
 - Limited Dependent Variable Models [[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/LimitedDependentVariables.pdf)][[Video](https://youtu.be/KtnMIdQh5-4?si=jEiIeOAgGyMQ0u_Q)]
 

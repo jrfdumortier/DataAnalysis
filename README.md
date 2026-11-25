@@ -21,12 +21,12 @@
 - Basic Statistics and Sampling [[Notes](https://github.com/jrfdumortier/DataAnalysis/raw/main/Notes/Basic%20Statistics%20and%20Sampling%20(Notes).pdf)][[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/Basic%20Statistics%20and%20Sampling%20(Slides).pdf)]
 - Confidence Intervals [[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/Confidence%20Intervals%20(Slides).pdf)]
 - Hypothesis Testing [[Video](https://youtu.be/bW0pCDV20us)]
-- Advanced Topics in Hypothesis Testing [[Notes](https://github.com/jrfdumortier/DataAnalysis/raw/main/Notes/Advanced%20Topics%20in%20Hypothesis%20Testing%20(Slides).pdf)][[Video](https://youtu.be/Vw5rsU1ayr4)]
+- Advanced Topics in Hypothesis Testing [[Notes](https://github.com/jrfdumortier/DataAnalysis/raw/main/Notes/Advanced%20Topics%20in%20Hypothesis%20Testing%20(Notes).pdf)][[Video](https://youtu.be/Vw5rsU1ayr4)]
 
 **Ordinary Least Square (OLS) Models**
 
 - Bivariate Regression [[Notes](https://github.com/jrfdumortier/DataAnalysis/raw/main/Notes/Bivariate%20Regression%20(Notes).pdf)][[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/Bivariate%20Regression%20(Slides).pdf)][[Video](https://youtu.be/omZJ5hJYc9k)]
-- Basic Multivariate Regression [Notes](https://github.com/jrfdumortier/DataAnalysis/raw/main/Notes/Basic%20Multivariate%20Regression%20(Notes).pdf)][[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/Basic%20Multivariate%20Regression%20(Slides).pdf)][[Video](https://youtu.be/pUwaaBwRk2w)]
+- Basic Multivariate Regression [[Notes](https://github.com/jrfdumortier/DataAnalysis/raw/main/Notes/Basic%20Multivariate%20Regression%20(Notes).pdf)][[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/Basic%20Multivariate%20Regression%20(Slides).pdf)][[Video](https://youtu.be/pUwaaBwRk2w)]
 - Advanced Multivariate Regression [[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/AdvancedMultivariateRegression.pdf)]
 - Violating Assumptions [[Notes](https://github.com/jrfdumortier/DataAnalysis/raw/main/Notes/Violating%20Assumptions.pdf)][[Slides](https://github.com/jrfdumortier/DataAnalysis/raw/main/Slides/ViolatingAssumptions.pdf)]
 
